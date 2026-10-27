@@ -1,0 +1,102 @@
+
+**Examples – Facts vs. Evidence:**
+
+| ❌ Incorrect | ✅ Correct |
+|---|---|
+| “The Claimant paid ₦500,000 to the Defendant as evidenced by the receipt attached hereto.” | “The Claimant paid ₦500,000 to the Defendant on 1st January 2024.” |
+| “The Defendant admitted liability in a WhatsApp message dated 2nd February.” | “On 2nd February 2024, the Defendant admitted liability.” |
+
+**Key Authorities:**
+- **Aghadiuno v. Onubogu (1998) 5 NWLR (Pt. 548) 16** – Averments in pleadings are not evidence.
+- **Ijomah v. Molokwu (2025) 21 NWLR (Pt. 2023) 145** – Evidence at variance with pleadings is inadmissible.
+- **FCT High Court Civil Procedure Rules, Order 15 Rule 2** – Pleadings must state material facts, **not the evidence** by which they are to be proved.
+
+---
+
+### 5. Legal Reference & Sample Drafts
+
+**Purpose:** Provide access to Nigerian statutes and a library of sample legal drafts.
+
+**Available Statutes:**
+- **Companies and Allied Matters Act 2020 (CAMA 2020):** Structured reference covering incorporation, shares, directors, meetings, winding up, limited liability partnerships, business names, incorporated trustees, and schedules.
+- **Sheriffs and Civil Process Act (Cap. 407 LFN 1990):** Provisions on sheriffs’ duties, enforcement of judgments, execution against movable and immovable property, judgment summons, garnishee proceedings, and service of process nationwide.
+
+**Sample Drafts (Organised by Practice Area):**
+- **Civil Litigation:** Writs of summons, originating summons, statements of claim and defence, motions (interlocutory, ex parte), affidavits, witness statements, closing addresses, garnishee orders, notices of appeal, recovery of premises, fundamental rights enforcement.
+- **Criminal Litigation:** Charge sheets (magistrate court), informations (high court), bail applications, no-case submissions, notices of appeal, bail pending appeal.
+- **Property Law:** Deeds of assignment, powers of attorney (simple and irrevocable), leases, mortgages, probate applications, letters of administration, wills, codicils.
+- **Company Law:** Pre-incorporation contracts, memorandum and articles of association, CAC forms (CAC 1, CAC 2, CAC 7), corporate resolutions, notices of meetings, winding-up resolutions, declarations of solvency, winding-up petitions.
+
+**How to Use:**
+1. Identify the relevant statute or sample draft.
+2. Adapt the template to the specific facts, replacing all placeholders (`[DATE]`, `[NAME]`, `[AMOUNT]`, etc.).
+3. Verify jurisdiction-specific rules and filing requirements.
+4. Review and finalise with a licensed attorney.
+
+---
+
+## Step-by-Step Process for Combined Use
+
+1. **Determine your goal:** Humanise text, reverse-engineer a prompt, refine an image, draft a legal document, or access legal references.
+2. **Select the appropriate sub-skill** and follow its process.
+3. **For legal drafting:**
+   - Gather facts, jurisdiction, parties, claims, reliefs.
+   - Draft using the pleading structure, ensuring **facts only** (no evidence).
+   - Cite authorities; verify every citation.
+   - Run the quality checklist.
+   - Provide a clean draft with placeholders and verification warnings.
+   - Remind the user that attorney review is required.
+4. **For AI content tasks:** Apply the relevant humaniser, reverse prompt engineering, or image regeneration process.
+5. **For legal reference:** Use the statutes and sample drafts as templates or reference material, adapting as necessary.
+
+---
+
+## Quality Checklist (Legal Drafting)
+
+- [ ] Caption is correct and complete.
+- [ ] All parties are properly named and identified.
+- [ ] Jurisdiction and venue are adequately alleged.
+- [ ] Facts are chronological, specific, and supported.
+- [ ] **No evidence is pleaded** (no receipts, witness statements, or documents).
+- [ ] Each claim or defense includes all required elements.
+- [ ] Legal authority is cited and verified.
+- [ ] Prayer for relief is specific and appropriate.
+- [ ] Signature block is complete.
+- [ ] Certificate of service is included if required.
+- [ ] Formatting complies with local rules.
+- [ ] No confidential information is improperly disclosed.
+- [ ] Attorney review is noted before filing.
+
+---
+
+## Important Disclaimer
+
+- **Not legal advice.** This skill produces draft language and reference material only.
+- **No attorney–client relationship** is formed by using this skill.
+- **Licensed attorney review is required** before filing or relying on any output.
+- **Verify every citation, statute, rule, and quotation** independently.
+- **Do not input confidential client information** unless your tools and policies permit it.
+- **Comply with local rules**, court orders, deadlines, and professional conduct obligations.
+- **Unauthorized practice of law (UPL)** rules apply. Use only within your authorized scope.
+- **You are responsible** for the final document, including accuracy, formatting, and service.
+
+---
+
+## Output Format
+
+- For AI content tasks: provide the refined text or image prompt in a clear, copy-ready format.
+- For legal drafting: provide a clean draft in Markdown or plain text, with placeholders for missing information and a short “Missing Information / Verification Required” section.
+- Always end with a reminder that a licensed attorney must review the document before filing.
+
+---
+
+## Source Repository
+
+This skill is derived from the **Law Practice Repository**, which includes:
+- AI skills (Humaniser, Reverse Prompt Engineering, Image Regeneration)
+- Legal Practice Pleading skill
+- Educational docs on pleadings vs. evidence
+- Statutes: CAMA 2020, Sheriffs and Civil Process Act
+- Sample drafts: civil litigation, criminal litigation, property law, company law
+
+For the full repository, refer to the original files and documentation.

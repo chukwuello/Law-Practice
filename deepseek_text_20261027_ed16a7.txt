@@ -1,0 +1,75 @@
+
+---
+
+## 7. sample-drafts/property-law.md
+
+```markdown
+# Property Law Drafts
+
+Templates and precedents for property law practice in Nigeria.
+
+---
+
+## Table of Contents
+
+- [Deeds](#deeds)
+- [Power of Attorney](#power-of-attorney)
+- [Leases](#leases)
+- [Mortgages](#mortgages)
+- [Probate and Administration](#probate-and-administration)
+- [Wills](#wills)
+
+---
+
+## Deeds
+
+### Deed of Assignment
+
+```markdown
+DEED OF ASSIGNMENT
+
+THIS DEED OF ASSIGNMENT is made this [DAY] day of [MONTH], [YEAR]
+
+BETWEEN:
+[VENDOR NAME] of [ADDRESS] (hereinafter called "the VENDOR") of the one part
+
+AND
+
+[PURCHASER NAME] of [ADDRESS] (hereinafter called "the PURCHASER") of the other part.
+
+THIS DEED RECITES AS FOLLOWS:
+1. The Vendor is the beneficial owner in possession of the property described in this assignment.
+2. The property is free from encumbrances.
+3. The Vendor has agreed to sell the property to the Purchaser and the Purchaser has agreed to buy the property.
+
+THIS DEED WITNESSES AS FOLLOWS:
+1. In pursuance of the said Agreement and for a valuable consideration of the sum of [AMOUNT] ([AMOUNT IN WORDS]) paid to the Vendor by the Purchaser (the receipt of which sum the Vendor hereby acknowledges) the Vendor as BENEFICIAL OWNER hereby ASSIGNS unto the Purchaser ALL THAT [DESCRIPTION OF PROPERTY] situate at [ADDRESS] particularly described by Survey Plan No. [SURVEY PLAN NUMBER].
+
+IN WITNESS OF WHICH THE PARTIES HAVE EXECUTED THIS DEED IN THE MANNER BELOW THE DAY AND YEAR FIRST ABOVE WRITTEN.
+
+SIGNED, SEALED AND DELIVERED
+By the within named VENDOR
+_____________________
+[VENDOR NAME]
+
+IN THE PRESENCE OF:
+Name: _____________________
+Address: _____________________
+Occupation: _____________________
+Signature: _____________________
+
+SIGNED, SEALED AND DELIVERED
+By the within named PURCHASER
+_____________________
+[PURCHASER NAME]
+
+IN THE PRESENCE OF:
+Name: _____________________
+Address: _____________________
+Occupation: _____________________
+Signature: _____________________
+
+FRANKED BY:
+[SOLICITOR NAME]
+[FIRM]
+[ADDRESS]

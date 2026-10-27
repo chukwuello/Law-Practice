@@ -1,0 +1,29 @@
+law-practice/
+├── README.md
+├── LICENSE
+├── .gitignore
+├── ai-humaniser/
+│   └── SKILL.md
+├── reverse-prompt-engineering/
+│   └── SKILL.md
+├── image-regeneration/
+│   └── SKILL.md
+├── law-practice-pleading/
+│   └── SKILL.md          (updated with pleadings vs. evidence)
+├── docs/
+│   ├── 01-pleadings.md
+│   ├── 02-types-of-pleadings.md
+│   ├── 03-evidence.md
+│   ├── 04-key-differences.md
+│   ├── 05-similarities.md
+│   ├── 06-authorities.md
+│   └── 07-examples.md
+├── statutes/
+│   ├── CAMA-2020.md
+│   └── sheriffs-and-civil-process-act.md
+└── sample-drafts/
+    ├── README.md
+    ├── civil-litigation.md
+    ├── criminal-litigation.md
+    ├── property-law.md
+    └── company-law.md

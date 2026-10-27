@@ -1,0 +1,51 @@
+
+---
+
+## 6. sample-drafts/criminal-litigation.md
+
+```markdown
+# Criminal Litigation Drafts
+
+Templates and precedents for criminal litigation in Nigerian courts.
+
+---
+
+## Table of Contents
+
+- [Charges and Information](#charges-and-information)
+- [Bail Applications](#bail-applications)
+- [No-Case Submission](#no-case-submission)
+- [Appeals](#appeals)
+
+---
+
+## Charges and Information
+
+### Charge Sheet (Magistrate Court)
+
+```markdown
+IN THE MAGISTRATE COURT OF [STATE]
+IN THE [MAGISTERIAL DISTRICT]
+HOLDEN AT [COURT]
+
+CHARGE NO: [CHARGE NUMBER]
+
+BETWEEN:
+COMMISSIONER OF POLICE ..................................... COMPLAINANT
+
+AND
+
+[DEFENDANT NAME] .............................................. DEFENDANT
+
+COUNT 1:
+That you [DEFENDANT NAME] on or about the [DAY] day of [MONTH], [YEAR] at [LOCATION] within the [MAGISTERIAL DISTRICT] did [OFFENCE DESCRIPTION] and thereby committed an offence contrary to Section [SECTION] of the [LAW] and punishable under Section [SECTION] of the same Law.
+
+COUNT 2:
+That you [DEFENDANT NAME] on or about the [DAY] day of [MONTH], [YEAR] at [LOCATION] within the [MAGISTERIAL DISTRICT] did [OFFENCE DESCRIPTION] and thereby committed an offence contrary to Section [SECTION] of the [LAW] and punishable under Section [SECTION] of the same Law.
+
+DATED this [DAY] day of [MONTH], [YEAR].
+
+_____________________
+[PROSECUTOR NAME]
+Police Prosecutor
+For: Commissioner of Police

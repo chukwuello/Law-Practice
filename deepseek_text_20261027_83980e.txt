@@ -1,0 +1,72 @@
+
+---
+
+## 8. sample-drafts/company-law.md
+
+```markdown
+# Company Law Drafts
+
+Templates and precedents for company law practice in Nigeria, including CAC forms and corporate resolutions.
+
+---
+
+## Table of Contents
+
+- [Pre-Incorporation Contracts](#pre-incorporation-contracts)
+- [Memorandum and Articles of Association](#memorandum-and-articles-of-association)
+- [CAC Forms](#cac-forms)
+- [Corporate Resolutions](#corporate-resolutions)
+- [Notices of Meetings](#notices-of-meetings)
+- [Winding Up](#winding-up)
+
+---
+
+## Pre-Incorporation Contracts
+
+### Pre-Incorporation Contract (General)
+
+```markdown
+PRE-INCORPORATION CONTRACT
+
+THIS PRE-INCORPORATION AGREEMENT is made and effective this [DAY] day of [MONTH], [YEAR]
+
+BETWEEN:
+[FIRST PARTNER NAME], a company incorporated under the Companies and Allied Matters Act with its head office located at [ADDRESS] (the "First Partner")
+
+AND
+
+[SECOND PARTNER NAME], a company incorporated under the Companies and Allied Matters Act with its head office located at [ADDRESS] (the "Second Partner")
+
+AND
+
+[THIRD PARTNER NAME], a company incorporated under the Companies and Allied Matters Act with its head office located at [ADDRESS] (the "Third Partner")
+
+RECITAL:
+The First Partner now owns and operates a business in [LOCATION] known as [BUSINESS NAME]. The parties agree to incorporate that business and the Second and Third Partners agree to take a certain amount of the stock in the corporation.
+
+TERMS:
+1. The Company has been inventoried by the above-named parties and it is agreed between them that the Company including all personal property shall be taken in by the corporation at a value of [AMOUNT].
+
+2. Second Partner agrees to pay in cash the amount of [AMOUNT], the receipt of which is acknowledged, and from the date of signing this contract is an owner of an undivided one-half interest in the capital as mentioned above.
+
+3. It is agreed to incorporate the company under the Companies and Allied Matters Act for the sum of [AMOUNT] and that stock shall be issued to First Partner and to Second Partner as their interest may appear.
+
+4. It is agreed that when the corporation is formed and stock issued, First Partner will sell to Third Partner an amount of stock and Second Partner agrees to sell an equal amount of stock to Third Partner, the intention being that as soon as the corporation is incorporated all of the above-named parties are to have an equal amount of stock in the corporation.
+
+IN WITNESS OF WHICH WE SET OUR HANDS THE DAY FIRST ABOVE WRITTEN.
+
+Signed and Delivered by:
+_____________________
+[FIRST PARTNER NAME]
+
+_____________________
+[SECOND PARTNER NAME]
+
+_____________________
+[THIRD PARTNER NAME]
+
+In the Presence of:
+Name: _____________________
+Address: _____________________
+Occupation: _____________________
+Signature: _____________________

@@ -1,0 +1,107 @@
+
+---
+
+## Drafting Rules
+
+- **Numbered paragraphs** – one fact or point per paragraph where possible.
+- **Active voice** – prefer “Defendant failed to pay” over “Payment was not made.”
+- **Precise details** – use exact dates, amounts, names, and locations.
+- **Defined terms** – define parties and key terms on first use.
+- **No fabrication** – never invent facts, citations, or authorities.
+- **Placeholders** – use `[ ]` for missing information.
+- **Tone** – formal, respectful, and objective.
+- **Citations** – every legal proposition should be supported by authority.
+- **Local rules** – always defer to jurisdiction-specific requirements.
+- **Facts, not evidence** – plead the event, not the proof.
+
+---
+
+## Citation & Verification Standards
+
+- Use the citation format required by the court (e.g., Bluebook, ALWD, state-specific).
+- Include pinpoint citations (e.g., `Id. at 457`).
+- Verify that each case is still good law.
+- Check statutes and regulations for amendments.
+- Quote accurately; use ellipses and brackets properly.
+- Flag any authority you cannot verify with `[VERIFY]`.
+
+---
+
+## Quality Checklist
+
+- [ ] Caption is correct and complete.
+- [ ] All parties are properly named and identified.
+- [ ] Jurisdiction and venue are adequately alleged.
+- [ ] Facts are chronological, specific, and supported.
+- [ ] **No evidence is pleaded** (no receipts, witness statements, or documents).
+- [ ] Each claim or defense includes all required elements.
+- [ ] Legal authority is cited and verified.
+- [ ] Prayer for relief is specific and appropriate.
+- [ ] Signature block is complete.
+- [ ] Certificate of service is included if required.
+- [ ] Formatting complies with local rules.
+- [ ] No confidential information is improperly disclosed.
+- [ ] Attorney review is noted before filing.
+
+---
+
+## Example Skeleton
+
+**Caption:**
+`IN THE HIGH COURT OF [STATE]`
+`IN THE [JUDICIAL DIVISION]`
+`HOLDEN AT [COURT]`
+
+**Case No.:** `[CASE NUMBER]`
+
+**Plaintiff:** `[PLAINTIFF NAME]`
+**Defendant:** `[DEFENDANT NAME]`
+
+**Document Title:** `STATEMENT OF CLAIM`
+
+**Factual Background:**
+1. The Claimant is [DESCRIPTION].
+2. The Defendant is [DESCRIPTION].
+3. On `[DATE]`, the Claimant and Defendant entered into a written agreement.
+4. Under the agreement, the Defendant agreed to `[OBLIGATION]`.
+5. The Claimant performed all obligations under the agreement.
+6. The Defendant failed to `[PERFORM OBLIGATION]` despite demand.
+7. As a result, the Claimant suffered damages of `[AMOUNT]`.
+
+**Legal Claim:**
+**Count One – Breach of Contract**
+8. The Claimant incorporates paragraphs 1–7.
+9. A valid contract existed between the parties.
+10. The Claimant performed or was excused from performance.
+11. The Defendant breached the contract.
+12. The Claimant suffered damages as a result.
+`[CITE SUPPORTING AUTHORITY]`
+
+**Prayer for Relief:**
+WHEREFORE, the Claimant claims against the Defendant for `[AMOUNT]`, costs of suit, and such other relief as the Court deems just.
+
+**Signature Block:**
+`[ATTORNEY NAME]`
+`[BAR NUMBER]`
+`[FIRM]`
+`[ADDRESS]`
+`[PHONE]`
+`[EMAIL]`
+
+---
+
+## Limitations
+
+- This skill does **not** know the latest local rules or emergency orders.
+- It cannot verify facts or the current status of cited authorities.
+- It does **not** replace legal research, strategy, or professional judgment.
+- It should **not** be used to file documents without licensed attorney review.
+- It is not a substitute for legal advice or representation.
+
+---
+
+## Output Format
+
+Provide a clean draft in Markdown or plain text.
+Include a short “Missing Information / Verification Required” section after the draft.
+Always end with a reminder that a licensed attorney must review the document before filing.
